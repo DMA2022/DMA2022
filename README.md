@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMA2022
-- 👀 I’m interested in working on projects that strengthen my HTML and CSS skills
+- 👀 I’m interested in working on projects that strengthen my HTML and CSS skills.
 - 🌱 I would like to learn how to code in Python and Javascript.
 - 💞️ I’m looking to collaborate on projects that will help me develop the previously mentioned skills.
 - 📫 How to reach me on GitHub.
